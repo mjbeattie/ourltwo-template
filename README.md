@@ -1,4 +1,4 @@
-# [COURSE] Ourl One — Lab [XX]: [Short Title]
+# Deep RL, Robotics, and RLHF — Lab [XX]: [Short Title]
 
 ## Overview
 This lab focuses on **[core concept]**:
